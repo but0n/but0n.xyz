@@ -3,14 +3,14 @@
 
 <head>
   <meta name="viewport" content="width=decive-width, initial-scale=1.0,user-scalable=no"/>
-  <title>Espresso Html</title>
+  <title>but0n</title>
   <style>
    a{text-decoration:none;
      color:rgba(255,255,255,0.8);
     }
 @font-face{
            font-family:web;
-           src:url('http://ys-l.ys168.com/2.0/275897663/fSkKu5q45157752J68Lqzk/Gotham-Thin.otf') format("opentype");
+           src:url('Gotham.otf') format("opentype");
           }
 *{font-face:web;}
     #background{position:fixed;
@@ -19,7 +19,7 @@
                 right:0;
                 width:100%;
                 height:100%;
-                background:-webkit-gradient(linear,left bottom,right top,from(#2a97b7),to(#109b42));
+                background:-webkit-gradient(linear,left bottom,left top,from(#373451),to(#257a89));
                 
                 z-index:-1;
                 
@@ -31,7 +31,7 @@
             left:0;
             right:0;
             width:100%;
-            height:13%;
+            
             padding:0;
             background-color:rgba(255,255,255,0.2);
             
@@ -44,15 +44,15 @@
            float:left;
            width:88%;
            height:100%;
-           
-           -webkit-animation:tscale 0.3s ease-out;
+           color:rgba(255,255,255,0.6);
+           -webkit-animation:tcolor 1s linear;
            
           }
 
-    @-webkit-keyframes tscale{
-         0% {-webkit-transform:scale(0.000001);}
-         96% {-webkit-transform:scale(1.1);}
-         100% {-webkit-transform:scale(1);}
+    @-webkit-keyframes tcolor{
+      
+         0% {color:rgba(255,255,255,0);}
+         100% {color:rgba(255,255,255,0.6);}
                             }
 
     #button{
@@ -73,25 +73,27 @@
 
                             }
     #text{
-          font-size:0.5em;
+          font-size:0.7em;
           width:95%;
-          margin:10% 0;
+          margin:10% 0 50% 0;
           border-radius:8%;
           padding:3%;
-          color:rgba(255,255,255,0.3);
-          box-shadow:inset 0 0 6px #000000;
-          
+          background:-webkit-gradient(linear,left bottom,right top,from(rgba(42,115,183,1)),to(rgba(16,155,66,0.8)));
+          color:rgba(255,255,255,0.6);
          }
   </style>
   <body>
  <div id="background"></div>
      <div id="header">
+         <a href="http://but0n.me">
            <div id="title">
-               <center><a href="http://but0n.me">but0n</a></center>
+               <center>but0n</center>
            </div>
+         </a>
+
            <a href="#">
              <div id="button">
-             <center><a href="#">+</a></center>
+             <center>+</center>
              </div>
            </a>
      </div>
