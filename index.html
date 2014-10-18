@@ -8,11 +8,14 @@
    a{text-decoration:none;
      color:rgba(255,255,255,0.8);
     }
+
 @font-face{
            font-family:web;
-           src:url('Gotham.otf') format("opentype");
+           src:url('/font/web.otf') format("opentype");
           }
-*{font-face:web;}
+
+*{font-family:web;}
+
     #background{position:fixed;
                 top:0;
                 left:0;
@@ -55,6 +58,7 @@
          100% {color:rgba(255,255,255,0.6);}
                             }
 
+
     #button{
            float:right;
            margin:1.8% 0 0 0;
@@ -66,22 +70,27 @@
            -webkit-animation:brotate 3s linear infinite;
            
            }
+
   @-webkit-keyframes brotate{
          
          100% {-webkit-transform:rotate(720deg);}
          
 
                             }
+#main{margin:20% 0;}
+
     #text{
-          font-size:0.7em;
+          font-size:em;
           width:95%;
-          margin:10% 0 50% 0;
-          border-radius:8%;
+          margin:10% 0 10% 0;
+          border-radius:15px;
           padding:3%;
-          background:-webkit-gradient(linear,left bottom,right top,from(rgba(42,115,183,1)),to(rgba(16,155,66,0.8)));
+          background-color:rgba(255,255,255,0.1);
           color:rgba(255,255,255,0.6);
          }
+
   </style>
+ </head>
   <body>
  <div id="background"></div>
      <div id="header">
@@ -97,29 +106,45 @@
              </div>
            </a>
      </div>
-<div id="text">
+                   <div id="main">
+      <div id="text">
+        <table width=100%>
 
-<p class="first"><a name="part1">The Serenity Prayer：</a></p>
-<p>My God, grant me the serenity to accept the things that I cannot change;</p>
-<p>the Courage to change the things that I can;</p>
-<p>And the wisdom to know the difference.</p>
-<p>Living one day at a time;</p>
-<p>Enjoying one moment at a time;</p>
-<p>Accepting hardships as the pathway to peace;</p>
-<p>Taking, as He did, this sinful world as it is, not as I would have it;</p>
-<p>Trusting that He will make all things right if I surrender to His Will;</p>
-<p>That I may be reasonably happy in this life and supremely happy with Him forever in the next.</p>
-<p>Amen.</p></div><div id="text">
-<p class="first"><a name="part2">The Serenity Prayer：</a></p>
-<p>My God, grant me the serenity to accept the things that I cannot change;</p>
-<p>the Courage to change the things that I can;</p>
-<p>And the wisdom to know the difference.</p>
-<p>Living one day at a time;</p>
-<p>Enjoying one moment at a time;</p>
-<p>Accepting hardships as the pathway to peace;</p>
-<p>Taking, as He did, this sinful world as it is, not as I would have it;</p>
-<p>Trusting that He will make all things right if I surrender to His Will;</p>
-<p>That I may be reasonably happy in this life and supremely happy with Him forever in the next.</p>
-<p>Amen.</p></div>
+         <tr>
+          <td></td><td>Y R</td><td>Y r</td><td>y R</td><td>y r</td>
+         </tr>
+
+         <tr>
+          <td>Y R</td><td>YYRR</td><td>YYRr</td><td>YyRR</td><td>YyRr</td>
+         </tr>
+
+         <tr>
+          <td>Y r</td><td>YYRr</td><td>YYrr</td><td>YyRr</td><td>Yyrr</td>
+         </tr>
+
+         <tr>
+          <td>y R</td><td>YyRR</td><td>YyRr</td><td>yyRR</td><td>yyRr</td>
+         </tr>
+
+         <tr>
+          <td>y r</td><td>YyRr</td><td>Yyrr</td><td>yyRr</td><td>yyrr</td>
+         </tr>
+
+        </table>
+      </div>
+
+
+                   
+
+        <div id="text">
+      <p>  Hi buddy, this is but0n's website.</p>
+<p>As you can see, there are a table about "Mendelian inheritance".</p>
+        </div>
+             <div id="text">
+                 <center>
+          Copyright&copy;2014 <del>but0n</del>Jack
+                 </center>
+             </div>
+ </div>
   </body>
 </html>
