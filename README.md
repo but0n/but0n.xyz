@@ -11,3 +11,7 @@ main.css - About layout, position, box color, font size, margin, padding and so 
 Created by Jack, October 18, 2015.
 
 Released into the public domain.
+
+Acknowledgment
+=====
+http://but0n.me/doc/thanks.html
