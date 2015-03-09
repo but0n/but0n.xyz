@@ -1,6 +1,9 @@
-but0n
+but0n•Responsive Web Design
 =====
 
-This's a Responsive Web Design with HTML5&amp;CSs3
+This's a Responsive Web Design with HTML5&amp;CSS3
 
 =====
+main.css - Library for MAIN code.
+Created by Jack, October 18, 2015.
+Released into the public domain.
