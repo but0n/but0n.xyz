@@ -10,7 +10,7 @@ INFORMATION
 
 main.css - About layout, position, box color, font size, margin, padding and so on.
 
-Created by Jack, October 18, 2015.
+Created by `Jack`, October 18, 2015.
 
 Released into the public domain.
 
@@ -21,20 +21,20 @@ http://but0n.me/doc/thanks.html
 Get the source code
 =====
 -File tree:
-'''
-   .
-   doc/
-       thanks.html
-       (…)
-   font/
+
+    .
+    doc/
+        thanks.html
         (…)
-   index.html
-   main.css
-'''
+    font/
+         (…)
+    index.html
+    main.css
+
 If you use Linux,
 You can downloard those files and folders with "wget".
-'''
-   $ wget http://but0n.me/(file_name)
-'''
+
+    $ wget http://but0n.me/(file_name)
+
 
    
