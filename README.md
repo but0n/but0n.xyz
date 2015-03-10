@@ -25,7 +25,7 @@ Get the source code
         thanks.html
         (…)
     font/
-         *.otf (Open Type Font)
+        *.otf (Open Type Font)
     index.html
     main.css
 
