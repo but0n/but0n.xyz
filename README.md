@@ -10,7 +10,7 @@ INFORMATION
 
 main.css - About layout, position, box color, font size, margin, padding and so on.
 
-Created by `Jack`, October 18, 2015.
+Created by `Jack`, October 18, 2014.
 
 Released into the public domain.
 
@@ -32,7 +32,7 @@ Get the source code
 If you use Linux,
 You can downloard those files and folders with command "wget".
 
-    $ wget http://but0n.me/(file_name)
+    $wget http://but0n.me/(file_name)
 
 
    
