@@ -21,7 +21,7 @@ http://but0n.me/doc/thanks.html
 Get the source code
 =====
 -File tree:
-    doc/
+     doc/
         thanks.html
         (…)
     font/
