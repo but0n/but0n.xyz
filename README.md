@@ -20,17 +20,10 @@ http://but0n.me/doc/thanks.html
 
 Get the source code
 =====
--Main files and folders:
-    doc/
-    thanks.html
-    font/
-    *.otf (Open Type Font)
-    index.html
-    main.css
-
+    $Downloard
 If you use Linux,
 You can downloard those files and folders with command "wget".
 
-    $wget http://but0n.me/(file_name)
+    $wget http://but0n.me/tar/
 
    
