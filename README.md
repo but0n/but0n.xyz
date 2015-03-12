@@ -33,6 +33,6 @@ If you use Linux,
 You can downloard those files and folders with command "wget".
 
     $wget http://but0n.me/(file_name)
-
+    $w
 
    
