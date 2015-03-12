@@ -20,12 +20,11 @@ http://but0n.me/doc/thanks.html
 
 Get the source code
 =====
--File tree:
+-Main files and folders:
     doc/
-     thanks.html
-        (…)
+    thanks.html
     font/
-        *.otf (Open Type Font)
+    *.otf (Open Type Font)
     index.html
     main.css
 
