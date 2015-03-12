@@ -21,8 +21,8 @@ http://but0n.me/doc/thanks.html
 Get the source code
 =====
 -File tree:
-     doc/
-        thanks.html
+    doc/
+     thanks.html
         (…)
     font/
         *.otf (Open Type Font)
@@ -33,6 +33,5 @@ If you use Linux,
 You can downloard those files and folders with command "wget".
 
     $wget http://but0n.me/(file_name)
-    $w
 
    
