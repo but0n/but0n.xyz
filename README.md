@@ -18,7 +18,7 @@ Acknowledgment
 =====
 http://but0n.me/doc/thanks.html
 
-Get the source code
+Get the source codes
 =====
     $Downloard
 If you use Linux,
@@ -26,4 +26,11 @@ You can downloard those files and folders with command "wget".
 
     $wget http://but0n.me/tar/
 
-   
+Files tree
+=====
+
+    font/
+        (OTF)
+    index.html
+    main.css
+    
